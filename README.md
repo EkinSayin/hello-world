@@ -1,2 +1,2 @@
 # hello-world
-just a newbie's stuff
+just started this stuff
